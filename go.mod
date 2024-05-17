@@ -8,3 +8,5 @@ require (
 	github.com/mdlayher/netlink v1.4.1
 	golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf
 )
+
+replace github.com/digitalocean/go-openvswitch master => github.com/mickwubs97/go-openvswitch master
